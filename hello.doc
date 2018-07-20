@@ -1,3 +1,5 @@
-asdhakhsd kjgjgjgjgjgaasd
-asdhadad
-asdad`
+public class S {
+     static void main (String args[] {
+	System.out.println("sahdak“);
+     }
+}

@@ -1,7 +1,0 @@
-package com.commit;
-
-public class S {
-      public static void main (String args[] {
-	System.out.println("sahdak");
-     }
-}

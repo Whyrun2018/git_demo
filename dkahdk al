@@ -1,0 +1,35 @@
+[33mcommit 243c693c9d9bf1334297d3c213c32c94caa1f4c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: hongyang <why_run@163.com>
+Date:   Fri Jul 20 10:07:45 2018 +0800
+
+    hello.doc
+
+[33mcommit 01612297d86c594c8077b1af7b1aee56d5abc84e[m[33m ([m[1;31morigin/wchar_support[m[33m, [m[1;32mwchar_support[m[33m)[m
+Author: hongyang <why_run@163.com>
+Date:   Thu Jul 19 14:36:52 2018 +0800
+
+    Added w_strlen function to return string length of wchar_t > string
+
+[33mcommit 2569c2a8e3d92bac3ebd199296235675805686b4[m
+Author: hongyang <why_run@163.com>
+Date:   Thu Jul 19 11:27:07 2018 +0800
+
+    AAA文件
+
+[33mcommit 88403995db74e23b9d3397562614ab6529785d33[m
+Author: hongyang <why_run@163.com>
+Date:   Wed Jul 18 17:12:37 2018 +0800
+
+    本次提交说明
+
+[33mcommit e9422a6f2fe0ac0238f21eb6915751f8f183594f[m
+Author: Whyrun2018 <40877233+Whyrun2018@users.noreply.github.com>
+Date:   Wed Jul 18 14:24:20 2018 +0800
+
+    Update README.md
+
+[33mcommit 4004f71e9efe6b9cfaa555badc76f73b7809c44e[m
+Author: Whyrun2018 <40877233+Whyrun2018@users.noreply.github.com>
+Date:   Wed Jul 18 14:08:17 2018 +0800
+
+    Create README.md
